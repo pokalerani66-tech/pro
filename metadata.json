@@ -1,0 +1,7 @@
+{
+  "name": "Smart Access System",
+  "description": "A secure and intelligent mobile interface for managing smart lock systems with master and user access modes.",
+  "requestFramePermissions": [
+    "bluetooth"
+  ]
+}
